@@ -1,0 +1,23 @@
+{
+  "name": "estate",
+  "version": "1.0.0",
+  "description": "ZHAW Projekt _ Grundbuch in Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "blockchain",
+    "real",
+    "estate"
+  ],
+  "author": "ZHAW Team (Kris, Reto, Sassa, Gelu)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "save": "^2.3.3",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.35"
+  }
+}
