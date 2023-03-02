@@ -14,7 +14,7 @@
   "author": "ZHAW Team (Kris, Reto, Sassa, Gelu)",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "save": "^2.3.3",
     "solc": "^0.4.25",
     "truffle-hdwallet-provider": "0.0.3",
